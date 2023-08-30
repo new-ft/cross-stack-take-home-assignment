@@ -109,7 +109,6 @@ However you are totally free to choose your own color scheme if you believe it e
 If you found the core task to be relatively straightforward and are interested in going the extra mile, consider implementing the following optional features:
 
 - **Keyboard navigation:** Implement keyboard navigation to allow users to navigate through the dropdown menu using the arrow keys and select items using the enter key.
-- **Simple search:** Allow the user to type part of a name and limit the displayed options to those that match the searched characters.
 - **Online Demo:** Deploy a live demo of your component using platforms like Netlify, Vercel, CodeSandbox etc.
 
 ### Delivery Instructions
