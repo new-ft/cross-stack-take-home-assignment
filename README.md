@@ -102,6 +102,7 @@ However you are totally free to choose your own color scheme if you believe it e
   - If the person has only a death date, provide the lifespan as `(-DeathYear)`
   - If the person has neither a birth date nor a death date, provide the lifespan as `(Living)`
   - If the person has no death date and has a birth date less than 120 years ago, provide the lifespan as `(Living)`
+  - If the person has no death date and has a birth date 120 years ago or more, provide the lifespan as `(BirthYear-)`
   - Create sample data to illustrate each of these scenarios
 - These life span rules should be implemented in the back end API, not in the front end code.
 
