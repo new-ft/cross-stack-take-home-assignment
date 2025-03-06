@@ -1,8 +1,8 @@
-# Cross-stack Engineer Take-Home Assignment
+# Full-stack Engineer Take-Home Assignment
 
 ## Introduction
 
-Thank you for your interest in joining our team as a Cross-stack Engineer. As part of our hiring process, we'd like to assess your technical skills, problem-solving abilities, and attention to detail through a take-home assignment. This exercise is designed to evaluate not just your coding skills but also your understanding of user experience and design principles. While we estimate that this task should take a few hours, feel free to invest additional time to add any extra features or polish that you think would make your solution stand out.
+Thank you for your interest in joining our team as a Full-stack Engineer. As part of our hiring process, we'd like to assess your technical skills, problem-solving abilities, and attention to detail through a take-home assignment. This exercise is designed to evaluate not just your coding skills but also your understanding of user experience and design principles. While we estimate that this task should take a few hours, feel free to invest additional time to add any extra features or polish that you think would make your solution stand out.
 
 ## Objective
 
