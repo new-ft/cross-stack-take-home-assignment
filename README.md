@@ -28,9 +28,9 @@ const options = [
 
 ### Technology guidelines
 
-- **Technology Stack:** You must use React and ASP.NET Core for this assignment. Feel free to bootstrap the project in the way you're most comfortable with (Vite, Next.js etc)
+- **Technology Stack:** You must use NextJS and ASP.NET Core for this assignment.
 - **Styling:** You are free to use any styling solution you prefer (CSS, Tailwind, CSS-in-JS etc).
-- **TypeScript:** It's not a mandatory requirement for this assignment.
+- **TypeScript:** Typescript is optional for this assignment.
 - **Tests:** Implement tests covering the basic functionality of the component.
 
 ### Design guidelines
